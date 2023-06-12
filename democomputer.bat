@@ -1,0 +1,1 @@
+simu -mcomputer.ma -ecomputer.ev -lcomputer.log

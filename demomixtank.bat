@@ -1,0 +1,1 @@
+simu -mmixtank.ma -emixtank.ev -lmixtank.log
